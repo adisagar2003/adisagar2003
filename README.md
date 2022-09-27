@@ -1,4 +1,4 @@
-<h3 align="left">Hi! I am Aditya</h3><img src="https://www.freeiconspng.com/uploads/pikachu-transparent-29.gif" height="40" width="40" alt="adisagar2003" />
+<h3 align="left">Hi! I am Aditya👋👋👋</h3><img src="https://www.freeiconspng.com/uploads/pikachu-transparent-29.gif" height="40" width="40" alt="adisagar2003" />
 <h3 align="center">A passionate fullstack developer in St. John's, Newfoundland.</h3>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adisagar2003&show_icons=true&locale=en&layout=compact" alt="adisagar2003" /></p>
